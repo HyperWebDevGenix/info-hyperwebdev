@@ -1,0 +1,49 @@
+* {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+#header {
+  background-color: rgb(59, 59, 59);
+}
+#page-lists {
+  list-style: none;
+  display: inline-flex;
+}
+.page-links {
+  margin-left: 5px;
+  margin-top: 5px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.page-links:hover {
+  border: 2px solid blue;
+  border-radius: 10px;
+  color: blue;
+  text-decoration: underline;
+}
+#footer {
+  padding: 10px;
+  background-color: black;
+}
+a {
+  text-decoration: none;
+}
+#footer-description {
+  color: rgb(167, 167, 167);
+  font-size: 13px;
+}
+.middle-sec {
+  margin: 20px;
+}
+.middle-sec-title {
+  font-size: 30px;
+  color: black;
+}
+.italic-text {
+  color: black;
+}
+#fiverr-link {
+  color: rgb(66, 41, 255);
+}
